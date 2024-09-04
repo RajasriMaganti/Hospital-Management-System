@@ -1,0 +1,104 @@
+SAMPLE OUTPUT:
+Database Connection created Successfully
+---------HOSPITAL MANAGEMENT SYSTEM---------
+1. Add Patinets
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Book Appointments
+6. Exit
+Enter your choice
+3
+Patients details:
+Patient Id:1
+Patient Name :rajasri
+Patient Age:21
+Patient Gender:Female
+---------HOSPITAL MANAGEMENT SYSTEM---------
+1. Add Patinets
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Book Appointments
+6. Exit
+Enter your choice
+4
+Doctor details:
+Doctor Id:1
+Doctor Name :D-1
+Department:Cardiology
+---------HOSPITAL MANAGEMENT SYSTEM---------
+1. Add Patinets
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Book Appointments
+6. Exit
+Enter your choice
+5
+Enter Patient ID : 
+4
+Enter Doctor ID : 
+5
+Enter appointment date (yyyy-mm-dd) : 
+2024-03-02
+Please provide valid Patient ID
+---------HOSPITAL MANAGEMENT SYSTEM---------
+1. Add Patinets
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Book Appointments
+6. Exit
+Enter your choice
+1
+Enter patient name:
+Mayuri
+Enter patient age:
+56
+Enter patient gender:
+Female
+Patinet details added Successfully!!
+---------HOSPITAL MANAGEMENT SYSTEM---------
+1. Add Patinets
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Book Appointments
+6. Exit
+Enter your choice
+3
+Patients details:
+Patient Id:1
+Patient Name :rajasri
+Patient Age:21
+Patient Gender:Female
+Patient Id:2
+Patient Name :Mayuri
+Patient Age:56
+Patient Gender:Female
+---------HOSPITAL MANAGEMENT SYSTEM---------
+1. Add Patinets
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Book Appointments
+6. Exit
+Enter your choice
+5
+Enter Patient ID : 
+2
+Enter Doctor ID : 
+4
+Enter appointment date (yyyy-mm-dd) : 
+2024-03-04
+Please provide valid Doctor ID
+---------HOSPITAL MANAGEMENT SYSTEM---------
+1. Add Patinets
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Book Appointments
+6. Exit
+Enter your choice
+6
